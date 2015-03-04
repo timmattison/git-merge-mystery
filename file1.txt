@@ -1,5 +1,5 @@
 This is my file
 
-I am going to change this line in two branches
+I am going to BREAK this line in two branches
 
 I am going to leave the rest of the file alone
